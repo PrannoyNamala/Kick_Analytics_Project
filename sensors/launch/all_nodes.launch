@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="sensors" exec="sensors" name="sensors"/>
+  <node pkg="data_processor" exec="data_processor" name="data_processor" output="screen"/>
+</launch>
