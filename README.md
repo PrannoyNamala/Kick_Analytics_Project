@@ -4,7 +4,7 @@ This repository consists of two ROS Packages ```sensors``` and ```data_processor
 This repository has been created in ```Ros Foxy``` and on ```Ubuntu 20.04.1 LTS```. The programming language used through out this repository is ```C++```. ```Python``` is used for plotting the avergae data.. Make sure to have ```matplotlib``` and ```pandas``` libraries for plotting.
 
 ## Steps to Run the Packages
-Extract the repository to the ```src``` folder of your ros2 workspace.
+Extract the repository to the ```src``` folder of your ros2 workspace such both the ROS packages are in the ```src``` folder.
 In a new terminal
 
 ### Run without launch file
